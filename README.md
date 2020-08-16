@@ -1,2 +1,3 @@
 # WrongTurn-Game
-Micro Unity Game for Android Device
+Micro solo racing Game for Android Device, my first ever game developed with UNITY-3D
+Hoping to make something great someday 
